@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CometJake
-- 👀 I’m interested in eveything space!
-- 🌱 I’m currently studying for my PhD at the Mullard Space Science Laboratory UCL.
+-  Hi, I’m @CometJake
+-  I’m interested in eveything space!
+-  I’m currently studying for my PhD at the Mullard Space Science Laboratory UCL.
 
 
 <!---
